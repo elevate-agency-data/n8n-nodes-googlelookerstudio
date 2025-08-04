@@ -1,0 +1,20 @@
+{
+  "node": "n8n-nodes-googlelookerstudio.GoogleLookerStudio",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "GoogleLookerStudio"
+  ],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://developers.google.com/looker-studio/integrate/api/reference?hl=en"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://developers.google.com/looker-studio/integrate/api/reference?hl=en"
+      }
+    ]
+  }
+}
