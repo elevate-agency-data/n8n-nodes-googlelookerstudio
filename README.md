@@ -36,7 +36,7 @@ To use this node, you need a Google Cloud API key with access to Google Looker S
 This node supports the following operations within Google Looker Studio:  
 
 * **Asset**
-    - Searchs a user Looker Studio assets
+    - Searches an user Looker Studio asset
 * **Permission**
     - Adds members to a Looker Studio asset
     - Gets the permissions for a Looker Studio asset
